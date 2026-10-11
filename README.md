@@ -20,5 +20,6 @@ page until the player saves the files and hands them to the team.
 
 ## Updating
 
-Replace `index.html` with a new build of the prototype (the built page wrapped in an HTML document) and push to
-`main`; GitHub Pages publishes it within a minute or two.
+GitHub Pages publishes the `gh-pages` branch; `main` holds the same files. Replace `index.html` with a new build
+of the prototype (the built page wrapped in an HTML document) and push it to both branches; the site updates
+within a minute or two.
